@@ -1,3 +1,5 @@
+<img src=".github/cover.png" alt="NestHexagonalTemplate" width="100%">
+
 # NestHexagonalTemplate
 
 A NestJS starter built around ports & adapters (hexagonal architecture), with [Hygen](https://www.hygen.io/) generators so a new module comes out with the same structure every time.
