@@ -1,0 +1,2 @@
+# Hygen generator templates are TypeScript code written as EJS; keep them out of the language stats
+_templates/** linguist-vendored
